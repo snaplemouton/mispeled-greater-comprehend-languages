@@ -1,0 +1,19 @@
+{
+  "id": "mispeleds-greater-comprehend-languages",
+  "title": "Mispeled's Greater Comprehend Languages",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p><strong data-start=\"243\" data-end=\"286\">Mispeled’s Greater Comprehend Languages</strong> adds a <code data-start=\"294\" data-end=\"300\">/gcl</code> chat command that allows characters to speak in specific languages. Messages appear as believable fantasy gibberish to non-speakers, while characters who know the language receive the true message privately.</p>",
+  "authors": [
+    {
+      "name": "Mispeled",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  }
+}
