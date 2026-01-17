@@ -32,7 +32,7 @@ Using curly brackets `{}` in a message will protect words from being turned into
 `/gcl Elvish We do not like Dwarves here in {Elvandar}.`
 
 Public chat output:
-`We do fon hume Nilorhl fias in Elvandar.` 
+`Fa ia fon hume Nilorhl fias fa Elvandar.` 
 
 Whispered to fluent characters:
 `[Elven] We do not like Dwarves here in Elvandar.`
@@ -61,7 +61,7 @@ This module registers a custom status effect for **Comprehend Languages**:
 
 ## Compatibility
 
-- Foundry VTT
+- Foundry VTT v13
 - Pathfinder 1e
 - System-agnostic by design (language handling is module-driven)
 
